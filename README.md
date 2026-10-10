@@ -446,7 +446,7 @@ This structured approach makes the application more reliable, easier to maintain
 | **Markdown Rendering** | React Markdown |
 | **Version Control** | Git & GitHub |
 | **Frontend Hosting** | Vercel |
-| **Backend Hosting** | Railway |
+| **Backend Hosting** | Render |
 | **Development Tools** | VS Code, Postman, npm |
 
 ---
@@ -938,7 +938,7 @@ Building a chatbot that answered only questions related to the uploaded contract
 
 ### Deployment
 
-Deploying the frontend and backend on separate platforms required configuring environment variables, CORS policies, and API communication between Vercel and Railway.
+Deploying the frontend and backend on separate platforms required configuring environment variables, CORS policies, and API communication between Vercel and Render.
 
 ### Key Learnings
 
@@ -951,7 +951,7 @@ Throughout this project, I strengthened my understanding of:
 - Secure file upload and memory-based processing.
 - JSON-based communication between AI and frontend applications.
 - Frontend deployment with Vercel.
-- Backend deployment with Railway.
+- Backend deployment with Render.
 - Writing maintainable and modular code.
 
 This project also reinforced the importance of user experience, responsible AI design, and clear documentation when building real-world applications.
